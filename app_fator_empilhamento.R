@@ -1,4 +1,3 @@
-# Load the package
 library(jpeg)
 library(imager)
 
